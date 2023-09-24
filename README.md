@@ -17,6 +17,4 @@ Search and select the directory where you downloaded the code!
 Technologies used😄
 
 
-## Screenshots
-
 
